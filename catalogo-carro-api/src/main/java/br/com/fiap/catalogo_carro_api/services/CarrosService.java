@@ -14,6 +14,9 @@ import java.util.List;
 @AllArgsConstructor
 public class CarrosService {
 
+
+    //TODO: criar os metodos para potencia, economia e carros tipo elétrico
+
     @Autowired
     private CarrosMockRepository repository;
 
@@ -35,6 +38,7 @@ public class CarrosService {
 
     public void deleteById(Long id){
         this.repository.deletaById(id);
+
     }
 
 
