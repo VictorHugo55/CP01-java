@@ -130,7 +130,7 @@ public class Carros {
         return tipo;
     }
 
-    public void setTipo(String tipo) {
+    public void setTipo() {
         this.tipo = tipo;
     }
 
