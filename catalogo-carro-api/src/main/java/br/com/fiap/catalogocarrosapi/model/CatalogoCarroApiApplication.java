@@ -1,4 +1,4 @@
-package br.com.fiap.catalogo_carro_api;
+package br.com.fiap.catalogocarrosapi.model;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
