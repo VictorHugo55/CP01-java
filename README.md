@@ -63,7 +63,7 @@ Todos os erros genéricos são tratados globalmente usando `@ControllerAdvice` n
 ### Pré-requisitos
 - Java 17+
 - Maven 3.8+
-- Oracle Database (com acesso configurado no `application.properties`)
+- MYSQL (com acesso configurado no `application.properties`)
 - IDE recomendada: IntelliJ IDEA
 
 ### Passo a passo para rodar o projeto
