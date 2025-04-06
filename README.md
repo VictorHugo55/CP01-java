@@ -58,5 +58,21 @@ Testes unitários implementados em `CarroControllerTests` utilizando JUnit 5 e M
 Todos os erros genéricos são tratados globalmente usando `@ControllerAdvice` na classe `ApiExceptionHandler`, retornando código HTTP 500 com mensagem.
 
 
+## 🚀 Instruções de Deploy
+
+### Pré-requisitos
+- Java 17+
+- Maven 3.8+
+- Oracle Database (com acesso configurado no `application.properties`)
+- IDE recomendada: IntelliJ IDEA
+
+### Passo a passo para rodar o projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/catalogo-carro-api.git
+   cd catalogo-carro-api
+
+
 
 
